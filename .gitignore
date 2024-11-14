@@ -1,0 +1,12 @@
+.env
+venv
+clean_cache.py
+media/
+db.sqlite3
+usuarios_teste.txt
+diagrama_db.drawio
+setup/__pycache__/
+adocao/__pycache__/
+adocao/tests/__pycache__/
+adocao/migrations/
+__pycache__/
